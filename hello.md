@@ -1,3 +1,7 @@
+
+테스트 중입니다>>  잘 전송이 되었나요??
+
+
 mcp 와 api 를 비교해서 쉽게 설명해줘, 특히 비용면에서 자세하게 설명해줘
 
 최근 AI 개발의 핵심 화두인 **MCP(Model Context Protocol)**와 전통적인 **API(Application Programming Interface)**를 비교해 드릴게요.
