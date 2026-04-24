@@ -1,0 +1,508 @@
+부드러운 피아노 선율과 콘트라베이스의 깊은 울림, 그리고 은은한 드럼 브러쉬 소리가 어우러진 현대적인 보컬 재즈 스타일입니다
+- "C:\Users\UserK\Desktop\music workroom\Velvet_Pulse_of_Night.mp4"
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. 원하는 음악의 분위기를 구체적으로 설정하세요
+
+​
+
+AI에게 음악의 감성과 분위기를 명확히 전달하는 것이 가장 중요합니다.
+
+​
+
+어떤 스타일을 원하느냐에 따라 곡의 느낌이 완전히 달라질 수 있습니다. 
+
+​
+
+✔ 예시
+
+부드럽고 감성적인 피아노 연주곡을 원한다면  → Create a sweet piano performance with a sweet piano performance.In the background, add more warm atmosphere and make a warm atmosphere.
+
+신비로운 신스웨이브 스타일을 원한다면 →  Make me a dreamy synthwave track based on 80s synthesizer sound. Use soft pads and lead synth, and add a deep reverb melody.
+
+강렬한 락 음악을 원한다면 → Make rock music centered on electric guitar riffs with strong distortion and powerful drum sounds. Make it full of energy and excitement.
+
+​
+
+💡 Tip : AI에게 "차분한 음악을 만들어줘" 같은 모호한 요청보다는 구체적인 분위기, 악기, 감성을 명확하게 설명해 주는 것이 중요합니다!
+
+​
+
+
+Suno AI - 음악 생성 프롬프트 입력 화면
+
+2. 특정 악기를 강조해 개성을 살려보세요
+
+​
+
+어떤 악기를 주로 사용하느냐에 따라 음악의 느낌이 완전히 달라집니다.
+
+특정 악기를 강조하도록 AI에게 요청하면 더욱 원하는 스타일에 가까운 결과를 얻을 수 있습니다.
+
+​
+
+✔ 예시
+
+웅장한 오케스트라 사운드를 원한다면 → Make me orchestra sound with a string section highlighted. Add an emotional violin solo and a warm cello background.
+
+재즈 분위기의 곡을 원한다면 → Make a jazz track revolving around a soft electric piano and swing rhythm. Add a double bass and brush drum to bring vintage vibes to life
+
+힙합 스타일을 원한다면 → Make a hip-hop beat with an 808 base and trap-style hi-hat pattern. Make it feel like heavy kicks and snare drums are ringing hard
+
+​
+
+💡 Tip: 원하는 악기를 구체적으로 지정하면 AI가 더욱 정교한 음악을 생성할 수 있습니다.
+
+
+MixAudio - 음악 생성 프롬프트 입력 화면
+
+3. 리듬과 템포를 조절하세요
+
+​
+
+​
+
+음악의 분위기를 결정하는 중요한 요소 중 하나가 바로 템포(BPM)와 리듬 패턴입니다.
+
+​
+
+AI에게 원하는 템포와 리듬을 미리 설정해 주면 훨씬 더 완성도 높은 음악을 만들 수 있습니다.
+
+​
+
+✔ 예시
+
+감성적인 발라드를 원한다면 → Create a ballad song that is central piano melody.The system ports set up 70 BPM, and put soft string pad.
+
+일반적인 팝 음악을 원한다면 → Make 100-120 BPM pop music. Use exciting rhythm guitar and bright synthesizer chord progression to create a cheerful atmosphere.
+
+댄스 음악을 원한다면 → Make me an EDM track with a strong kick drum and an exciting baseline. Set the tempo to 128 BPM, and make it an exciting atmosphere that goes well with clubs.
+
+​
+
+💡 Tip: "빠른 노래" 같은 표현보다는 정확한 BPM과 장르적 특징을 함께 설명해 주는 것이 중요합니다.
+
+
+Mubert - 음악 생성 프롬프트  입력 화면
+
+4. 곡의 구조를 설정하세요
+
+​
+
+AI는 기본적으로 곡을 자동으로 생성하지만, 미리 곡의 구조를 정해 두면 더 자연스러운 음악이 완성됩니다.
+
+​
+
+일반적인 노래 형식뿐만 아니라, 특정 전개 방식을 요청할 수도 있습니다.
+
+​
+
+✔ 예시
+
+팝송 스타일을 원한다면 → Intro → verse → chorus → verse → bridge → chorus → make a pop song with an ending structure. The chorus part makes sure the melody is emphasized.
+
+영화 음악 스타일을 원한다면 → Make me an orchestra piece with a progressively climax-forming structure. Start with a calm piano and string, then add a grand brass and percussion in the second half.
+
+루프 기반 음악을 원한다면 → Please make a song using loop structure in electronic music style. Let repetitive melodies and incremental additions be natural.
+
+​
+
+💡 Tip: 원하는 곡의 형식을 구체적으로 설명하면 AI가 훨씬 더 자연스러운 곡을 생성할 수 있습니다!
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+wondera 에서 만든 프롬프트
+
+jazz, swing, vintage, late-night, smooth
+[intro]
+[chorus]
+Let the music wash it away
+Let the piano say what I can't say
+All the weight of the day
+Just let it drift away
+[verse]
+Clock hit five, I shut the door
+Tie still hanging loose from before
+Streetlight flickers on wet pavement
+Rain tapping soft on the awning
+I follow that old familiar sound
+Down to this quiet little room downtown
+[chorus]
+Let the music wash it away
+Let the piano say what I can't say
+All the weight of the day
+Just let it drift away
+[verse]
+Dim lights low and the glasses clink
+Bartender gives me time to think
+Bass walks slow like it’s got nowhere to be
+Brushes whisper on the snare for me
+Vintage sign outside in the rain
+Soft red glow on the window pane
+[chorus]
+Let the music wash it away
+Lean on these keys till I'm okay
+No need to explain
+Just let it drift away
+Let the music wash it away
+[outro]
+
+자욱한 연기가 자욱한 재즈 클럽 뮤직비디오를 위한 스토리보드 콘셉트입니다. 비에 젖은 창문과 네온사인을 지나 클럽 안으로 천천히 카메라가 들어오는 장면으로 시작해서, 첫 소절이 펼쳐지는 동안 일렉트릭 피아노, 베이시스트, 브러시 드러머의 클로즈업 샷을 부드럽게 전환하고, 촛불이 켜진 테이블과 실루엣으로 처리된 손님들을 중간중간 보여줍니다. 피아노 솔로 부분은 무대 위 피아니스트와 가수를 중심으로 자욱한 연기 속을 부드럽게 감싸는 트랙으로 표현하고, 마지막 장면에서는 텅 빈 무대를 길게 비추며 네온사인이 깜빡이는 가운데 마지막 음이 여운을 남기는 것으로 마무리합니다. 🎬
+
+악기
+악기
+리드 보컬 (여성, 부드럽고 따뜻한 음색). 피아노. 콘트라베이스. 드럼 키트 (브러시)
+장르
+장르
+보컬 재즈. 라운지 재즈. 컨템포러리 재즈
+태그
+태그
+편안한, 온화한, 사색적인, 심야의, 마음을 달래주는, 명상적인, 스모키한, 분위기 있는, 부드러운 스윙, 세련된, 심야 바
+설명
+설명
+This is a sophisticated vocal jazz track with a relaxed, late-night atmosphere. The arrangement is built around a classic piano trio, creating an intimate and contemplative mood. A warm, smooth female vocal delivers the melody with a gentle, conversational phrasing that feels both effortless and deeply expressive. The piano provides the core harmonic structure with elegant, jazzy chord voicings and tasteful melodic fills, often echoing or responding to the vocal line. The rhythm section consists of a walking upright bass playing a steady, grounding pulse and a drum kit played with brushes, which produces a soft, shuffling swing feel. The song's most memorable feature is its chorus, where the vocalist soars over the full band in a powerful, sustained "ah" note, creating a cathartic release. The overall production is clean and spacious, allowing each instrument to breathe while contributing to the cohesive, smoky lounge vibe.
+뮤직비디오 타임스탬프 분석: 0:00~0:15 빗속 창문과 네온사인을 통해 클럽 안으로 천천히 들어가는 장면; 0:15~0:45 촛불이 켜진 테이블들을 스쳐 지나가며 전자 피아노와 보컬의 클로즈업으로 첫 소절을 들려주는 장면; 0:45~1:15 베이시스트와 브러시 드러머의 미디엄 샷을 번갈아 보여주다가 중요한 부분에서 보컬로 돌아오는 장면; 1:15~1:45 솔로 연주 동안 피아노 주변을 부드럽게 도는 트래킹 샷; 그리고 1:45~끝까지 관객들이 흩어지면서 서서히 와이드 샷으로 전환되고, 텅 빈 무대와 깜빡이는 네온사인으로 마무리됩니다.
+
+[00:11.83]Let the music wash it away;
+[00:20.13]Let the piano say what I can't say;
+[00:27.91]All the weight of the days;
+[00:33.29]Just let it drift away;
+[00:40.73]Clock hit five, I shut the door;
+[00:44.79]Ties still hanging loose from before;
+[00:48.75]Streetlight flickers on wet paving;
+[00:52.85]Rain tapping soft on the yawning;
+[00:55.75]I follow that old familiar sound;
+[00:59.71]Down to this quiet little room downtown;
+[01:03.87]Let the music;
+[01:07.66]Wash it away;
+[01:12.12]Let the piano say what I can't say;
+[01:19.90]All the weight of the day;
+[01:25.32]Just let it drift away;
+[01:33.14]Dim the lights low and the glasses clink;
+[01:37.12]Bartender gives me time to think;
+[01:40.66]Bass walks slow like it's got nowhere to be;
+[01:44.82]Brushes whisper on the snare for me;
+[01:48.84]Vintage sign outside in the rain;
+[01:52.80]Soft red glow on the windowpane;
+[01:56.34]Let the music wash it away;
+[02:04.15]Lean on these keys till I am okay;
+[02:11.67]No need to explain;
+[02:17.33]Just let it drift away;
+[02:27.85]Let the music;
+[02:39.65]Wash it away;
+[02:47.63]Let the music;
+[02:51.63]Wash it away;
+[02:53.17]Let the music wash it away;
+[03:12.35]Ooh, ooh, ooh, ooh, ooh;
+
+
+jazz, lounge, relaxing, late-night, smoky
+
+-----------------------------
+
+음악에서 음악으로
+
+Please reference the style of the  musicI uploaded and use the lyrics I provide to recreate a new track. Follow these requirements strictly:
+                    While preserving the original audio’s melodic structure, rhythmic flow, and emotional core, re-arrange and generate a complete song.
+                    Must retain: the main melodic contour, rhythmic patterns, and emotional dynamics.
+                    Must not: significantly alter the main melody or change the emotional core of the song.
+
+                    Lyrics:
+                    Verse 1
+                    In the quiet of the night, I hear your name
+                    City lights are falling like the rain
+                    Every step I take is calling you
+                    Every road I walk is leading through
+
+                    Pre-Chorus
+                    If the world keeps spinning, out of control
+                    I’ll hold the spark inside your soul
+
+                    Chorus
+                    Stay with me when the dark comes down
+                    We’ll be the fire in a silent town
+                    Even when the sky turns cold and blue
+                    I will find my way back to you
+
+                    Verse 2
+                    Shadows fade when your voice is near
+                    All my doubts disappear
+                    Broken dreams turn into truth
+                    When I’m standing next to you
+
+                    Bridge
+                    Let the echoes carry what we are
+                    Across the distance, through the stars
+
+                    Final Chorus
+                    Stay with me when the dark comes down
+                    We’ll be the fire in a silent town
+                    No matter where the night pulls through
+                    I will always run back to you
+
+제가 업로드한 음악의 스타일을 참고하여, 제가 제공하는 가사를 활용해 새로운 곡을 만들어 주세요. 다음 요구 사항을 엄격히 준수해야 합니다. 원곡의 멜로디 구조, 리듬 흐름, 그리고 감정적 핵심을 유지하면서, 새로운 곡을 재구성하여 완성해야 합니다. 주요 멜로디 윤곽, 리듬 패턴, 그리고 감정적 역동성은 반드시 유지해야 합니다. 주요 멜로디를 크게 변경하거나 곡의 감정적 핵심을 바꾸어서는 안 됩니다. 
+
+가사: 1절 고요한 밤, 당신의 이름이 들려요 도시의 불빛이 비처럼 쏟아지고 발걸음 하나하나가 당신을 부르고, 걷는 모든 길이 당신에게로 향해요 프리코러스 세상이 통제할 수 없이 계속 돌아간다 해도 당신 영혼 속의 불꽃을 간직할게요 코러스 어둠이 내려앉아도 내 곁에 있어줘요 우리는 고요한 마을의 불꽃이 될 거예요 하늘이 차갑고 푸르게 변해도 나는 당신에게 돌아가는 길을 찾을 거예요 2절 당신의 목소리가 가까이 있을 때 그림자는 사라지고 모든 의심은 없어져요 부서진 꿈은 당신 곁에 있을 때 진실이 돼요 브릿지 우리의 존재를 메아리가 멀리, 별들을 지나 전하게 하세요 마지막 코러스 어둠이 내려앉아도 내 곁에 있어줘요 우리는 고요한 마을의 불꽃이 될 거예요 밤이 어디를 덮치든 나는 언제나 당신에게 달려갈 거예요
+
+-----------------
+
+MIDI를 음악으로 변환
+
+Please use the uploaded MIDI file as the musical foundation and recreate a complete song.
+
+Preserve the original melody, harmony, rhythm, and emotional core.
+Use the following lyrics only. If timing does not match, align the lyrics by adjusting syllable placement and note length without changing the words.
+Do not change the core melody or emotional direction.
+
+Lyrics:
+Verse 1
+In the quiet where the city sleeps
+I’m chasing dreams I couldn’t keep
+Every shadow knows my name
+Every road still feels the same
+
+I was running from the truth
+Every step was leading you
+Through the dark, through all I knew
+I was always finding you
+
+Chorus
+Hold me when the night falls down
+Be my light, don’t make a sound
+Even when I lose control
+You’re the fire inside my soul
+
+Stay with me, don’t let me go
+Through the high, through the low
+No matter where the winds may roam
+You’re the only place I call my home
+
+Verse 2
+All the scars we try to hide
+Fade away when you’re by my side
+Every fear I ever had
+Turns to gold inside your hands
+
+I was searching every sign
+In the stars, in borrowed time
+When the world is out of view
+I keep coming back to you
+
+Chorus
+Hold me when the night falls down
+Be my light, don’t make a sound
+Even when I lose control
+You’re the fire inside my soul
+
+Stay with me, don’t let me go
+Through the high, through the low
+No matter where the winds may roam
+You’re the only place I call my home
+
+Bridge
+If the sky begins to break
+If the ground beneath us shakes
+I will stand, I won’t let go
+You’re the truth I’ve always known
+
+Final Chorus
+Hold me when the night falls down
+Be my light, don’t make a sound
+Through the dark, through all I’ve known
+You’re the only place I call my home
+
+업로드된 MIDI 파일을 기반으로 완전한 곡을 재창조해 주십시오. 원곡의 멜로디, 화성, 리듬, 그리고 감정적 핵심을 그대로 유지해야 합니다. 아래 가사만 사용하십시오. 박자가 맞지 않을 경우, 단어 자체는 변경하지 않고 음절 위치와 음표 길이를 조정하여 맞춰주십시오. 핵심 멜로디나 감정적 방향은 절대 바꾸지 마십시오. 
+
+가사: 1절 도시가 잠든 고요 속에서 지키지 못했던 꿈들을 쫓고 있어 모든 그림자가 내 이름을 알고 모든 길이 여전히 똑같아 진실로부터 도망치고 있었지만 모든 발걸음은 너에게로 향했지 어둠 속에서, 내가 알던 모든 것을 통해 난 언제나 너를 찾았어 후렴 밤이 오면 날 안아줘 내 빛이 되어줘, 아무 소리도 내지 마 내가 통제력을 잃더라도 넌 내 영혼의 불꽃이야 내 곁에 있어줘, 날 놓지 마 기쁨 속에서도 슬픔 속에서도 바람이 어디로 불든 넌 내가 집이라고 부를 수 있는 유일한 곳이야 2절 우리가 숨기려 했던 모든 상처는 네가 내 곁에 있을 때 사라져 내가 가졌던 모든 두려움은 네 손 안에서 금빛으로 변해 모든 징조를 찾고 있었어 별 속에서도, 빌린 시간 속에서도 세상이 보이지 않을 때 난 계속해서 너에게 돌아와 후렴 밤이 오면 날 안아줘 내 빛이 되어줘, 아무 소리도 내지 마 내가 통제력을 잃더라도 넌 내 영혼의 불꽃이야 내 곁에 있어줘, 날 놓지 마 기쁨 속에서도 슬픔 속에서도 바람이 어디로 불든 방황할지라도 당신은 내가 집이라고 부를 수 있는 유일한 곳이에요 (브릿지) 하늘이 무너져 내리고 우리 발밑의 땅이 흔들린다 해도 나는 굳건히 서서 당신을 놓지 않을 거예요 당신은 내가 항상 알고 있던 진실이에요 (마지막 후렴) 밤이 찾아올 때 나를 안아줘요 내 빛이 되어줘요, 아무 소리도 내지 말고 어둠 속에서, 내가 알고 있는 모든 것을 통해 당신은 내가 집이라고 부를 수 있는 유일한 곳이에요
+
+--------------------------------
+
+음악 편집
+
+줄기
+
+Please separate all audio tracks (stems) from this song.Extract each element into its own isolated track, including vocals, drums, bass, melody, harmony, and any additional instruments.
+
+이 곡의 모든 오디오 트랙(스템)을 분리해 주세요. 보컬, 드럼, 베이스, 멜로디, 하모니 및 기타 악기를 포함하여 각 요소를 별도의 트랙으로 추출해 주세요.
+
+
+확대
+
+Please extend this song.
+Continue the track naturally while preserving the original style, melody direction, rhythm, and emotional core.
+Add new sections
+
+Lyrics:
+When the morning breaks our fear
+And the noise of life is near
+Through the storm, through all we’ve grown
+I will walk this road alone with you
+No more doubts, no turning back
+In your light I find my track
+Wherever fate may take us home
+You’re the only place I call my own
+
+
+이 곡을 확장해 주세요. 원곡의 스타일, 멜로디 방향, 리듬, 감정적 핵심을 유지하면서 자연스럽게 이어지도록 해 주세요. 새로운 부분을 추가해 주세요. 가사: 아침이 우리의 두려움을 깨뜨리고 삶의 소음이 가까워질 때 폭풍 속에서, 우리가 성장해 온 모든 것을 통해 나는 너와 함께 이 길을 홀로 걸을 거야 더 이상 의심도, 뒤돌아보지도 않을 거야 너의 빛 속에서 나는 내 길을 찾을 거야 운명이 우리를 어디로 데려가든 너는 내가 내 것이라고 부를 수 있는 유일한 곳이야
+
+
+
+전문적인 작사
+
+Please write original song lyrics.
+
+Style: modern pop
+Mood: warm, emotional, and hopeful
+Theme: love, connection, and finding home in someone
+Language: English
+Structure: Verse 1 – Chorus – Verse 2 – Chorus – Bridge – Final Chorus
+
+Keep the lyrics natural, singable, and emotionally coherent. Avoid clichés and do not copy existing songs.
+
+다음 조건에 맞는 오리지널 곡의 가사를 써주세요. 스타일: 모던 팝, 분위기: 따뜻하고 감성적이며 희망적인, 주제: 사랑, 연결, 누군가에게서 안식처를 찾는 것, 언어: 영어, 구조: 1절 – 후렴 – 2절 – 후렴 – 브릿지 – 마지막 후렴. 가사는 자연스럽고, 부르기 쉬우며, 감정적으로 일관성 있게 작성해주세요. 진부한 표현은 피하고, 기존 곡을 표절하지 마세요.
+
+가사
+[인트로] [1절] 카운터 위의 열쇠 거리의 소음이 사라져 가네 네가 신발을 벗어 던지면 방 전체가 부드러워져 난 반쯤 정신을 잃고 있었지 내 머릿속에서 벗어나 있었는데 네가 내 이름을 부르니 다시 제자리로 돌아와 [코러스] 오늘 밤엔 지도가 필요 없어 네 손은 내가 어디에 숨는지 알아 세상이 불을 끄면 내 걱정은 네가 있는 곳으로 흘러가 운이라고, 타이밍이라고, 뭐라고 부르든 상관없어 네가 내 눈을 바라볼 때면 난 집에 도착했다는 걸 알아 [1절] 우린 값싼 꽃을 사서 물 주는 걸 잊어버려 침묵에 웃고 그 침묵이 자리 잡도록 내버려 둬 네가 진실을 말해줘 마음이 떨릴 때조차도 그리고 난 여기 머물러도 된다고 믿기 시작해 [코러스] 오늘 밤엔 지도가 필요 없어 네 손은 내가 어디에 숨는지 알아 세상이 불을 끄면 내 걱정은 네가 있는 곳으로 흘러가 운이라고, 타이밍이라고, 뭐라고 부르든 상관없어 네가 내 눈을 바라볼 때면 난 집에 도착했다는 걸 알아 [브릿지] 예전엔 항상 한 발은 문 밖에 두려고 온갖 이유를 쫓아다녔지 이제는 부엌에 내 경계를 남겨두고 네 오래된 커피 옆에 숟가락 내가 넘어지더라도 너에게로 넘어질 거야 그게 내가 선택한 위험이야 내가 착지하는 곳에서 만나자고 말해줘 그럼 이 모든 움직임을 멈출게 [코러스] 오늘 밤엔 지도가 필요 없어 네 손은 내가 어디에 숨는지 알아 세상의 불이 꺼져도 내 걱정은 네 곁으로 갈 거야 행운이라고 불러도 좋고 타이밍이라고 불러도 좋아 네가 원하는 대로 불러 난 그냥 집에 도착했다는 걸 알아 네가 내 눈을 바라볼 때 [아웃트로]
+
+
+가사 필사
+
+Please transcribe the lyrics from this audio track.
+Convert the sung vocals into accurate text, preserving the original wording, line breaks, and song structure.
+Do not summarize, rewrite, or interpret—only provide a faithful transcription of the lyrics.
+
+가사
+[00:03.71]도시가 자리 잡은 고요 속에서; [00:07.23]지킬 수 없었던 꿈을 쫓고 있어; [00:10.33]모든 그림자가 내 이름을 알고 있어; [00:12.69]모든 길은 여전히 ​​똑같이 느껴져; [00:16.33]나는 진실로부터 도망치고 있었어; [00:19.65]모든 발걸음이 너에게로 향했어; [00:21.47]어둠 속에서, 내가 아는 모든 것을 통해; [00:24.79]나는 언제나 너를 찾고 있었어; [00:26.95]밤이 내리면 날 안아줘; [00:29.29]내 빛이 되어줘, 아무 소리도 내지 마; [00:32.54]내가 통제력을 잃더라도; [00:34.76]너는 내 영혼 속의 불꽃이야; [00:37.02]내 곁에 있어줘, 날 놓지 마; [00:39.40]높은 곳에서든, 낮은 곳에서든; [00:41.78]바람이 어디로 불든; [00:44.88]당신만이 내가 집이라고 부르는 유일한 곳; [00:48.06]당신이 숨기려 했던 모든 상처들; [00:49.92]당신이 내 곁에 있을 때 사라져요; [00:52.00]내가 가졌던 모든 두려움; [00:54.18]당신의 손 안에서 금빛으로 변해요; [00:57.52]나는 모든 빛을 찾아 헤맸어요; [01:00.52]빌려온 시간 속 별들 속에서; [01:04.36]세상이 보이지 않을 때; [01:06.90]나는 계속해서 당신에게 돌아와요; [01:09.78]밤이 내릴 때 나를 안아줘요; [01:12.92]나의 빛이 되어줘요; [01:15.96]소리 내지 마; [01:18.34]내가 아는 모든 어둠 속에서; [01:20.54]넌 내가 집으로 돌아오는 유일한 곳이야; [01:25.42]하늘이 무너지기 시작해도; [01:28.52]우리 발밑의 땅이 흔들려도; [01:31.82]난 서 있을 거야, 놓지 않을 거야; [01:34.70]넌 내가 항상 알고 있던 진실이야; [01:37.22]밤이 내려앉을 때 날 안아줘; [01:40.93]내 빛이 되어줘, 소리 내지 마; [01:43.65]어둠 속에서, 내가 아는 모든 어둠 속에서; [01:46.73]넌 내가 집이라고 부르는 유일한 곳이야; [02:13.63]아니, 아니, 아니, 아니;
+
+
+
+오디오 메타데이터
+
+Please analyze this audio and generate detailed audio metadata.
+Identify and output: genre/style, mood/emotion, tempo (BPM), key, time signature, energy level, instrumentation, structure, and any notable production characteristics.
+Provide the results in a clear, structured format. Do not modify the audio.
+
+이 오디오 파일을 분석하여 상세한 오디오 메타데이터를 생성해 주십시오. 장르/스타일, 분위기/감정, 템포(BPM), 조성, 박자표, 에너지 수준, 악기 구성, 구조 및 기타 주요 제작 특징을 식별하고 출력해 주십시오. 결과는 명확하고 구조화된 형식으로 제공해 주십시오. 오디오 파일을 수정하지 마십시오.
+
+기구악기
+리드 보컬 (여성, 부드럽고 숨소리가 섞인 목소리). 리드 보컬 (남성, 맑고 매끄러운 목소리). 백킹 보컬 (겹겹이 쌓인, 조화로운 목소리). 전자 드럼 키트. 신스 베이스. 피아노. 신스 패드. 신스 스트링. 신스 키보드. 음향 효과 (라이저, 스윕)
+장르장르
+팝. 인디 팝. 싱어송라이터. 일렉트로닉 팝
+꼬리표태그
+차분한, 명상적인, 기분을 좋게 하는, 사색적인, 부드러운, 온화한, 희망적인, 내성적인, 평화로운, 치유하는, 호흡 운동
+설명설명
+This is a polished and atmospheric electronic pop track with strong singer-songwriter influences. The song's foundation is built on a steady, mid-tempo electronic drum beat and a smooth synth bass line that provides a constant, grounding pulse. A clean piano melody serves as the primary instrumental hook, weaving throughout the verses and choruses. The arrangement features a dynamic interplay between the lead vocals; a gentle, breathy female vocal delivers the verses with an intimate feel, while a clear, smooth male vocal takes over for the more expansive chorus sections. The track's most defining feature is its powerful, anthemic chorus, where the vocals become layered and harmonized into a soaring, communal singalong. This is supported by lush synth pads and swelling synth strings, creating a rich, immersive soundscape. The production is clean and spacious, effectively using risers and sweeps to build tension and release, enhancing the song's meditative and uplifting emotional arc.
+
+
+
+비디오 생성
+
+Please generate a video based on this music track.Match the visuals to the song’s rhythm, dynamics, and emotional progression.
+
+이 음악 트랙에 맞춰 영상을 제작해 주세요. 영상은 곡의 리듬, 다이내믹스, 감정선에 맞춰야 합니다.
+
+--------------------------------------------------
+
+가사 생성
+주어진 주제에 맞춰 가사를 만들어 보세요.
+
+우편 /v1/lyrics/generate
+
+요청 매개변수
+매개변수	유형	필수의	설명
+즉각적인	string	필수의	가사 생성 프롬프트
+
+
+
+cURL 예제
+
+curl -X POST https://api.wondera.ai/v1/lyrics/generate \
+-H "x-api-key: $YOUR_API_KEY" \
+-H "Content-Type: application/json" \
+-d '{"prompt": "Whisper of the Void"}'
+
+
+
+파이썬 예제
+
+import requests
+response = requests.post(
+"https://api.wondera.ai/v1/lyrics/generate",
+headers={"x-api-key": "YOUR_API_KEY"},
+json={"prompt": "Whisper of the Void"}
+)
+print(response.json())
+
+
+
+응답 매개변수
+매개변수	유형	설명
+제목	string	가사 제목
+가사	string	가사의 내용
+
+
+
+응답 예시
+
+{
+"code": 0,
+"data": {
+"title": "Whisper of the Void",
+"lyrics": "[Intro]\n[Verse]\nIn the depths where shadows play,\nWhispers stir, they softly say.\nEchoes of dreams once so bright,\nNow lost in the void's cold night.\n\n[Chorus]\nHear the whispers in the dark,\nOf forgotten souls, they mark.\nUnspoken truths, they float around,\nIn the silence, they are found.\n\n[Bridge]\nThrough the void, a ghostly light,\nGuides the lost, brings them to sight.\nEach whisper a tale untold,\nIn the darkness, they're bold.\n\n[Verse]\nIn the silence, a voice does ring,\nA memory of what once was.\nThe void holds secrets deep and wide,\nWhere echoes linger, endlessly.\n\n[Pre-chorus]\nWith every breath, the whispers grow,\nTheir voices blend, they know.\nIn the void, they find their way,\nThrough the shadows, they'll stay.\n\n[Chorus]\nHear the whispers, soft and clear,\nIn the depths, they disappear.\nUnspoken truths, they come alive,\nIn the void, they thrive.\n\n[Chorus]\nHear the whispers, in the dark,\nOf forgotten souls, they mark.\nUnspoken truths, they float around,\nIn the silence, they're found.\n[Outro]"
+},
+"msg": ""
+}
+
+
+
+
+
+
+가사 확장
+기존 가사를 계속 작성하세요.
+
+우편 /v1/lyrics/extend
+
+요청 매개변수
+매개변수	유형	필수의	설명
+가사	string	필수의	가사 내용이 추가될 예정입니다.
+cURL 예제
+
+curl -X POST https://api.wondera.ai/v1/lyrics/extend \
+-H "x-api-key: $YOUR_API_KEY" \
+-H "Content-Type: application/json" \
+-d '{
+"lyrics": "[Verse]\nIn the depths where shadows play,\nWhispers stir, they softly say."
+}'
+파이썬 예제
+
+import requests
+response = requests.post(
+"https://api.wondera.ai/v1/lyrics/extend",
+headers={"x-api-key": "YOUR_API_KEY"},
+json={
+"lyrics": "[Verse]\nIn the depths where shadows play,\nWhispers stir, they softly say."
+}
+)
+print(response.json())
+응답 매개변수
+매개변수	유형	설명
+가사	string	확장된 가사
+응답 예시
+
+{
+"code": 0,
+"data": {
+"lyrics": "Echoes float, a silent boat."
+},
+"msg": ""
+}
+휴대용 소형 무선 호출기
+이전 페이지
+가사 생성
+
+
