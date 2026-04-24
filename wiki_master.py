@@ -5,7 +5,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # 설정
-VAULT_PATH = r"C:\Users\User\Desktop\test-connet" # 성용님의 경로
+VAULT_PATH = r"C:\Users\UserK\Desktop\test-connet\\" # 성용님의 경로
 
 class WikiHandler(FileSystemEventHandler):
     def on_created(self, event):
