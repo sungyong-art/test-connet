@@ -11,6 +11,8 @@ class WikiHandler(FileSystemEventHandler):
     def on_created(self, event):
         # 새로운 .txt 파일이 생성되면 실행
         if not event.is_directory and event.src_path.endswith(".txt"):
+            time.sleep(0.5)
+            
             print(f"✨ 새 텍스트 파일 감지: {event.src_path}")
             self.convert_to_wiki(event.src_path)
 
