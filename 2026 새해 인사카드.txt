@@ -1,0 +1,564 @@
+2026 새해 인사카드-Json 프롬프트 ///
+
+{
+"image_generation": {
+
+"style_preset": {
+  "main_style": "시네마틱 럭셔리 포스터, 포토리얼리스틱 CGI, 최고급 광고 품질",
+  "rendering": "3D 황금 입자 효과, 역동적인 먼지 시뮬레이션, 천상의 빛나는 미학",
+  "quality": "초고화질(Ultra HD), 8K 디테일, 전문적인 리터칭, 수상 경력에 빛나는 비주얼",
+  "mood": "강력함, 폭발적, 웅장함, 승리감, 프리미엄 럭셔리"
+},
+
+"composition": {
+  "layout": "세로 포트레이트 형식, 3:4 비율",
+  "focal_point": "중앙의 역동적인 말, 시각적 주의의 70%를 장악함",
+  "text_balance": "텍스트 최소화, 피사체(말) 중심의 구성",
+  "negative_space": "극적인 대비를 위한 전략적인 어두운 영역(여백) 배치"
+},
+
+"background": {
+  "type": "대기 효과가 있는 극적인 그라데이션",
+  "colors": {
+    "primary": "#8B0000",
+    "primary_name": "짙은 진홍색(Deep Crimson Red)",
+    "secondary": "#1A0000",
+    "secondary_name": "거의 검은색에 가까운 빨강(Near Black Red)"
+  },
+  "gradient": {
+    "type": "방사형",
+    "direction": "중앙에서 바깥쪽으로 어두워짐",
+    "hot_spot": "우측 상단 영역의 따뜻한 황금빛 빛남"
+  },
+  "atmosphere": {
+    "fog": "미묘한 붉은 틴트의 대기 안개",
+    "particles": "공간 전체에 떠다니는 황금 먼지",
+    "volumetric_light": "우측 상단에서 쏟아지는 극적인 신의 광선(God rays)"
+  },
+  "vignette": {
+    "intensity": "강함",
+    "color": "#0A0000",
+    "position": "모든 가장자리, 특히 모서리 부분이 더 진하게 어두워짐"
+  }
+},
+
+"main_subject": {
+  "type": "말(Horse)",
+  "description": "폭발적인 질주 동작을 취한 웅장한 종마",
+
+  "dynamism": {
+    "intensity": "극도로 역동적 (EXTREMELY DYNAMIC)",
+    "motion_blur": "강한 움직임 흔적, 속도감 강조",
+    "energy_level": "폭발적, 강력함, 멈출 수 없는 힘",
+    "movement_direction": "앞쪽 약간 위를 향해 돌진, 보는 이를 향해 폭발하듯 튀어나옴"
+  },
+
+  "pose": {
+    "action": "최고 강도의 전력 질주 중(mid-gallop), 앞다리를 강력하게 앞으로 뻗음",
+    "body_angle": "대각선 기울기, 폭발적인 전진 동작으로 몸을 기울임",
+    "head_position": "높게 쳐든 머리, 벌렁거리는 콧구멍, 거칠게 휘날리는 갈기",
+    "legs": "네 다리 모두 최대로 뻗어 전력 질주 보폭을 보여줌",
+    "tail": "입자 확산과 함께 뒤로 극적으로 휘날림",
+    "muscles": "눈에 띄게 긴장된 근육, 원초적인 힘과 강인함을 보여줌"
+  },
+
+  "particle_effect": {
+    "material": "전체가 빛나는 황금 입자와 발광하는 먼지로 구성됨",
+    "density": {
+      "core_body": "단단한 근육 형태를 이루는 고농도 입자 집적",
+      "edges": "바깥쪽으로 흩어지고 확산되는 입자들",
+      "extremities": "입자 흐름으로 용해되어 흩어지는 갈기, 꼬리, 발굽"
+    },
+    "dispersion": {
+      "mane": "뒤로 흐르는 거친 입자의 폭발",
+      "tail": "흩날리는 황금 먼지의 길고 극적인 궤적",
+      "hooves": "지면 높이에서의 거대한 먼지 구름 폭발",
+      "body_edges": "움직임을 보여주는 지속적인 입자 방출"
+    },
+    "glow": {
+      "intensity": "밝은 황금빛 발광",
+      "color": "#FFD700",
+      "bloom": "입자 가장자리 너머로 번지는 부드러운 빛(Bloom 효과)"
+    },
+    "trails": {
+      "motion_lines": "다리와 몸 뒤로 이어지는 선형의 입자 궤적",
+      "speed_effect": "극한의 속도를 암시하는 길게 늘어진 입자 형태"
+    }
+  },
+
+  "ground_interaction": {
+    "dust_cloud": "발굽 높이의 거대한 황금 먼지 폭발",
+    "impact_point": "발굽이 땅에 닿는 지점의 밝은 폭발",
+    "spreading_particles": "사방으로 소용돌이치며 퍼지는 먼지",
+    "ground_glow": "붉은 지면 표면에 반사된 황금빛"
+  },
+
+  "position": {
+    "horizontal": "중앙 정렬",
+    "vertical": "중앙보다 약간 위, 중간 프레임을 장악함",
+    "scale": "크게, 프레임 높이의 65-70%를 차지"
+  }
+},
+
+"lighting": {
+  "main_light": {
+    "type": "극적인 볼류메트릭 림 라이팅(테두리 조명)",
+    "color": "#FFD700",
+    "color_name": "찬란한 금색(Brilliant Gold)",
+    "position": "우측 상단 모서리, 45도 아래로 비춤",
+    "intensity": "강함, 피사체 테두리에 강력한 하이라이트 생성",
+    "rays": "대기를 통과해 흐르는 눈에 보이는 신의 광선(God rays)"
+  },
+  "fill_light": {
+    "type": "주변광의 황금빛 빛남",
+    "color": "#FFA500",
+    "color_name": "따뜻한 오렌지 골드",
+    "source": "말 자체에서 뿜어져 나옴",
+    "intensity": "중간, 주변 입자들을 비춤"
+  },
+  "accent_effects": {
+    "lens_flares": "가장 밝은 하이라이트 지점의 미묘한 렌즈 플레어",
+    "sparkles": "입자 정점들에 흩뿌려진 별 모양 하이라이트(Star-burst)",
+    "bloom": "밝은 영역에서 번지는 부드러운 빛"
+  }
+},
+
+"text_elements": {
+
+  "headline": {
+    "text": "HAPPY NEW YEAR",
+    "visibility": "미묘함, 절제됨, 피사체와 경쟁하지 않음",
+
+    "font": {
+      "style": "우아하고 얇은 세리프체, 정제된 럭셔리 느낌",
+      "weight": "라이트(Light)에서 씬(Thin) 두께",
+      "reference": "Trajan Pro Light, Didot Thin, Bodoni Light와 유사",
+      "case": "모두 대문자(ALL UPPERCASE)"
+    },
+
+    "size": {
+      "description": "작고, 미묘하며, 절제됨",
+      "canvas_ratio": "캔버스 너비의 약 25-30% 차지",
+      "height_ratio": "캔버스 높이의 약 2-3% 차지",
+      "hierarchy": "3차 요소, 하단 연도 숫자의 1/4 크기",
+      "reduction": "일반적인 헤드라인보다 50% 더 작음"
+    },
+
+    "styling": {
+      "color": "#F5DEB3",
+      "color_name": "소프트 크림(Soft Cream)",
+      "opacity": "85%",
+      "letter_spacing": "매우 넓은 자간, +300 트래킹",
+      "effects": "미묘하고 따뜻한 빛남, 짙은 그림자 없음"
+    },
+
+    "position": {
+      "horizontal": "중앙 정렬",
+      "vertical": "상단 영역, 캔버스의 상위 8-10% 지점",
+      "margin_top": "가장자리로부터 편안한 여백"
+    }
+  },
+
+  "year_number": {
+    "text": "2026",
+    "visibility": "존재감은 있으나 압도적이지 않음, 피사체가 주인공으로 남음",
+
+    "font": {
+      "style": "클래식하고 우아한 세리프체, 명망 있는 느낌",
+      "weight": "미디엄(Medium)에서 세미볼드(Semi-bold) 두께 (울트라 볼드 아님)",
+      "reference": "Bodoni, Times New Roman, Playfair Display와 유사",
+      "case": "숫자(numeric)"
+    },
+
+    "size": {
+      "description": "중대형 크기, 눈에 띄지만 절제됨",
+      "canvas_ratio": "캔버스 너비의 약 40-45% 차지",
+      "height_ratio": "캔버스 높이의 약 8-10% 차지",
+      "hierarchy": "2차 요소, 말을 뒷받침하는 역할",
+      "reduction": "일반적인 히어로 텍스트보다 50% 작음"
+    },
+
+    "styling": {
+      "material": "광택 있는 표면의 3D 메탈릭 골드",
+      "colors": {
+        "base": "#FFD700",
+        "base_name": "찬란한 금색",
+        "gradient_top": "#FFD700",
+        "gradient_bottom": "#B8860B",
+        "gradient_name": "골드에서 앤티크 골드로의 수직 그라데이션"
+      },
+      "effects": {
+        "bevel": "미묘한 3D 엠보싱, 너무 두드러지지 않음",
+        "reflection": "텍스트 아래의 부드러운 바닥 반사",
+        "sparkles": "곡선 부분의 최소한의 별 모양 하이라이트",
+        "shadow": "텍스트를 바닥에 안착시키는 부드러운 그림자"
+      }
+    },
+
+    "position": {
+      "horizontal": "중앙 정렬",
+      "vertical": "하단 영역, 캔버스의 하위 12-15% 지점",
+      "margin_bottom": "가장자리로부터 편안한 간격"
+    }
+  }
+},
+
+"color_palette": {
+  "background_primary": {
+    "name": "로얄 크림슨(Royal Crimson)",
+    "hex": "#8B0000",
+    "usage": "주 배경색"
+  },
+  "background_secondary": {
+    "name": "딥 블랙-레드(Deep Black-Red)",
+    "hex": "#1A0000",
+    "usage": "비네팅, 그림자, 깊이감 표현"
+  },
+  "gold_primary": {
+    "name": "브릴리언트 골드(Brilliant Gold)",
+    "hex": "#FFD700",
+    "usage": "말 입자, 연도 텍스트 하이라이트, 주 조명"
+  },
+  "gold_secondary": {
+    "name": "웜 오렌지 골드(Warm Orange Gold)",
+    "hex": "#FFA500",
+    "usage": "입자 빛남, 대기의 따뜻함 표현"
+  },
+  "gold_tertiary": {
+    "name": "앤티크 골드(Antique Gold)",
+    "hex": "#B8860B",
+    "usage": "텍스트 그라데이션 그림자, 깊이감"
+  },
+  "text_cream": {
+    "name": "소프트 크림(Soft Cream)",
+    "hex": "#F5DEB3",
+    "usage": "상단 헤드라인 텍스트"
+  }
+},
+
+"technical_settings": {
+  "aspect_ratio": "3:4 (세로 포트레이트)",
+  "resolution": "초고디테일, 인쇄 가능한 품질",
+  "depth_of_field": "얕은 피사계 심도, 말에 날카로운 초점, 배경의 대기 블러 처리",
+  "grain": "최소한의 미세한 시네마틱 그레인(입자감)"
+}
+
+-------------------------------------------------------------
+
+{
+"image_generation": {
+"style_preset": {
+  "main_style": "모던 플랫 일러스트레이션, 벡터 아트, 장난스러운 그래픽 디자인",
+  "character_style": "기발한 미니멀리스트 인물들, 과장된 크기의 손과 발, 아주 작은 둥근 머리, 길게 늘어난 얇은 팔다리, 외곽선 없음(NO outlines), 단색 도형 블록으로만 구성",
+  "rendering": "깔끔한 플랫 컬러, 그라데이션 절대 없음, 검은 외곽선 없음, 오직 단색 도형만 사용",
+  "outline_style": "외곽선 없음(NO OUTLINES), 순수한 플랫 컬러 블록, 색상 대비로만 형태 정의",
+  "quality": "선명한 벡터 스타일의 가장자리, 인쇄 가능한 품질",
+  "mood": "에너지 넘치는, 축제 분위기의, 명랑한, 젊은, 역동적인"
+},
+
+"composition": {
+  "layout": "1:1 정사각형 포맷, 중앙의 거대한 타이포그래피와 그 주변에서 상호작용하는 캐릭터들",
+  "focal_point": "중앙의 큰 연도 숫자",
+  "character_placement": "캐릭터들이 숫자 주변, 위, 타고 오르거나, 앉거나, 기대는 등 장난스럽게 배치됨",
+  "balance": "비대칭적이지만 시각적으로 균형 잡힌, 정돈된 혼돈",
+  "density": "분주하고 꽉 찬 구성, 빈 공간 최소화"
+},
+
+"background": {
+  "type": "단색",
+  "color": "#5DADE2",
+  "color_name": "밝고 명랑한 파란색 (더 밝은 톤)",
+  "texture": "완전히 평면적, 질감 없음"
+},
+
+"main_typography": {
+  "year_numbers": {
+    "text": "2026",
+    "layout": "2x2 격자 형태로 쌓음",
+    "arrangement": "20 (윗줄) 26 (아랫줄)",
+    "line_break": "첫 두 자리 숫자 뒤에 줄바꿈",
+
+    "font_style": {
+      "type": "불규칙한 손그림 스타일, 장난스러운 손글씨 느낌",
+      "characteristic": "약간 고르지 않은, 유기적인 형태, 완벽하게 정렬되지 않음",
+      "weight": "울트라 볼드, 두툼하고 굵은 획",
+      "edges": "약간 흔들리는, 손으로 그린 듯한 외관",
+      "reference": "아이 같은 손글씨, 마카펜 스타일, 불완전한 매력"
+    },
+
+    "size": {
+      "description": "초대형, 지배적인 초점",
+      "canvas_ratio": "전체 캔버스 너비의 55-60% 차지",
+      "height_ratio": "전체 캔버스 높이의 50-55% 차지",
+      "hierarchy": "주요 요소, 부제목보다 6배 더 큼"
+    },
+
+    "color": "#FFFFFF",
+    "position": "구성의 정중앙",
+
+    "special_element": {
+      "zero_interior": "'0' 내부에 장식적인 8각 별",
+      "star_color": "#FFFFFF 색상, 배경색이 비쳐 보임"
+    }
+  }
+},
+
+"sub_text": {
+  "message": {
+    "line_1": "유유케어 구독자, 시청자 여러분~",
+    "line_2": "새해 복 많이 받으세요~",
+    "full_text": "유유케어 구독자, 시청자 여러분~\\n새해 복 많이 받으세요~"
+  },
+
+  "font_style": {
+    "type": "친근한 둥근 고딕체(산세리프), 부드러운 가장자리",
+    "weight": "미디엄(Medium)에서 세미볼드(Semi-bold) 두께",
+    "reference": "Noto Sans KR, Pretendard, 나눔스퀘어라운드"
+  },
+
+  "size": {
+    "description": "중간 크기, 편안한 가독성",
+    "canvas_ratio": "캔버스 높이의 약 8-10%",
+    "hierarchy": "보조 텍스트, 메인 연도 숫자의 1/6 크기"
+  },
+
+  "color": "#FFFFFF",
+  "position": "하단 중앙, 캔버스의 하위 12% 지점",
+  "alignment": "중앙 정렬",
+  "line_spacing": "편안한 간격, 줄 높이 1.3"
+},
+
+"characters": {
+  "global_style": {
+    "body_proportion": "과장된 손(정상의 3배), 과장된 발(정상의 2배), 아주 작은 둥근 머리, 길고 얇은 팔다리",
+    "face_detail": "극도로 미니멀 - 작은 점 눈만 있거나 단순하고 작은 이목구비",
+    "outline": "없음(NONE) - 검은 외곽선 절대 없음, 오직 플랫 컬러 블록으로만 형태 정의",
+    "coloring": "단색 플랫 컬러, 그림자 없음, 그라데이션 없음",
+    "movement": "역동적이고 장난스러운 포즈, 에너지와 움직임이 가득함"
+  },
+
+  "character_1": {
+    "activity": "연날리기 (한국 전통 연)",
+    "description": "태극 문양이 있는 화려한 방패연을 날리며 힘차게 달리는 인물",
+    "pose": "역동적으로 달리는 자세, 한 팔을 높이 뻗어 연줄을 잡고 있음, 다리는 보폭 중간 상태",
+    "position": "좌측 상단 영역, 숫자 '2'의 윗부분과 상호작용",
+    "clothing_colors": {
+      "top": "#FF6B6B",
+      "bottom": "#2C3E50",
+      "skin": "#FFDAB9"
+    },
+    "prop": "#FFFFFF 바탕에 #FF6B6B 및 #5DADE2 태극 문양이 있는 방패연"
+  },
+
+  "character_2": {
+    "activity": "제기차기",
+    "description": "한쪽 다리를 높이 차올려 능숙하게 제기를 차는 인물",
+    "pose": "한 발로 서서 다른 발을 높이 들어 차는 동작, 균형을 잡기 위해 팔을 뻗음",
+    "position": "오른쪽 측면, 숫자 '0' 또는 '6'과 상호작용",
+    "clothing_colors": {
+      "top": "#FFB6C1",
+      "bottom": "#1A1A1A",
+      "skin": "#FFDAB9"
+    },
+    "prop": "#FF6B6B 몸체와 #FFD700 깃털을 가진 제기"
+  },
+
+  "character_3": {
+    "activity": "윷놀이",
+    "description": "앉거나 웅크린 채 열정적으로 윷가락을 던지는 인물",
+    "pose": "역동적인 던지기 동작, 팔을 앞으로 뻗음, 흥분한 자세",
+    "position": "좌측 하단 영역, '26'의 '2' 근처",
+    "clothing_colors": {
+      "top": "#2C3E50",
+      "bottom": "#5DADE2",
+      "skin": "#FFDAB9"
+    },
+    "prop": "#F5DEB3 천연 나무 색상의 윷가락"
+  },
+
+  "character_4": {
+    "activity": "팽이치기",
+    "description": "몸을 숙여 채찍으로 한국 전통 팽이를 돌리는 인물",
+    "pose": "앞으로 기울인 자세, 채찍질하는 팔 동작, 집중한 자세",
+    "position": "우측 하단 영역",
+    "clothing_colors": {
+      "top": "#FF6B6B",
+      "bottom": "#FFB6C1",
+      "skin": "#FFDAB9"
+    },
+    "prop": "#FF6B6B 바탕에 #FFD700 줄무늬가 있는 팽이"
+  },
+
+  "character_5": {
+    "activity": "세배하기",
+    "description": "한복을 입고 전통 세배 인사를 하는 인물",
+    "pose": "무릎을 꿇고 손을 바닥에 댄 채 공손히 머리를 숙인 자세",
+    "position": "중앙 영역, 숫자 위나 근처에 앉아있음",
+    "clothing_colors": {
+      "hanbok_jeogori": "#FFB6C1",
+      "hanbok_chima": "#FF6B6B",
+      "skin": "#FFDAB9"
+    }
+  },
+
+  "character_6": {
+    "activity": "복주머니 들고 기뻐하기",
+    "description": "복주머니를 들고 기쁘게 점프하는 인물",
+    "pose": "점프하는 순간, 축하하며 팔을 들어 올림, 행복한 자세",
+    "position": "구성 가장자리 주변에 흩어짐",
+    "clothing_colors": {
+      "top": "#1A1A1A",
+      "bottom": "#FFB6C1",
+      "skin": "#FFDAB9"
+    },
+    "prop": "#FF6B6B 색상에 #FFD700 끈이 달린 복주머니"
+  },
+
+  "character_7": {
+    "activity": "널뛰기 또는 투호",
+    "description": "전통 놀이를 하는 추가 인물",
+    "pose": "역동적인 액션 포즈",
+    "position": "숫자 주변의 빈 공간을 채움",
+    "clothing_colors": {
+      "top": "#FFB6C1",
+      "bottom": "#2C3E50",
+      "skin": "#FFDAB9"
+    }
+  }
+},
+
+"decorative_elements": {
+  "style": "단순한 플랫 아이콘, 외곽선 없음(NO outlines), 단색 도형, 최소한의 디테일, 전체적으로 흩뿌려짐",
+
+  "korean_traditional": {
+    "item_1": {
+      "type": "팽이 (한국 전통 팽이)",
+      "style": "단순한 원뿔 형태, 플랫 컬러",
+      "color": "#FF6B6B 바탕에 #FFD700 줄무늬",
+      "size": "작은 아이콘",
+      "quantity": 2
+    },
+    "item_2": {
+      "type": "복주머니",
+      "style": "장식 매듭이 있는 단순한 주머니 형태",
+      "color": "#FF6B6B 몸체, #FFD700 끈/매듭",
+      "size": "작은 것부터 중간 크기",
+      "quantity": 3
+    },
+    "item_3": {
+      "type": "무궁화 (한국 국화)",
+      "style": "단순화된 5잎 꽃 형태",
+      "color": "#FFB6C1 꽃잎, #FF6B6B 중심",
+      "size": "작음",
+      "quantity": 4
+    },
+    "item_4": {
+      "type": "소나무 가지",
+      "style": "단순화된 솔잎 뭉치",
+      "color": "#27AE60",
+      "size": "작음",
+      "quantity": 2
+    },
+    "item_5": {
+      "type": "방패연 (전통 연)",
+      "style": "태극 문양이 있는 다이아몬드/방패 모양",
+      "color": "#FFFFFF 바탕에 #FF6B6B 및 #5DADE2",
+      "size": "중간",
+      "quantity": 1
+    },
+    "item_6": {
+      "type": "제기",
+      "style": "단순한 제기 형태",
+      "color": "#FF6B6B 받침, #FFD700 깃털",
+      "size": "작음",
+      "quantity": 2
+    },
+    "item_7": {
+      "type": "윷 (윷가락)",
+      "style": "단순한 막대기 형태 4개",
+      "color": "#DEB887 나무 색상",
+      "size": "아주 작음",
+      "quantity": 1
+    }
+  },
+
+  "universal_decorations": {
+    "hearts": {
+      "color": "#FF6B6B",
+      "size": "아주 작음",
+      "quantity": "3-4개 흩어짐"
+    },
+    "stars": {
+      "style": "4각 및 8각 반짝이 형태",
+      "color": "#FFFFFF",
+      "size": "아주 작은 것부터 작은 것까지",
+      "quantity": "8-12개 전체적으로 흩어짐"
+    },
+    "plus_signs": {
+      "color": "#FFFFFF",
+      "size": "아주 작음",
+      "quantity": "6-8개 흩어짐"
+    },
+    "circles_dots": {
+      "style": "채워진 원, 테두리만 있는 원",
+      "color": "#FFFFFF",
+      "size": "아주 작음",
+      "quantity": "전체적으로 흩어짐"
+    },
+    "short_lines": {
+      "style": "장식용 대시 선, 동작 선",
+      "color": "#FFFFFF 및 #2C3E50",
+      "quantity": "에너지 표현을 위해 흩어짐"
+    }
+  }
+},
+
+"color_palette": {
+  "background": {
+    "name": "밝고 명랑한 파란색",
+    "hex": "#5DADE2",
+    "note": "더 밝고 화사한 톤"
+  },
+  "primary_text": {
+    "name": "순백색",
+    "hex": "#FFFFFF"
+  },
+  "accent_1": {
+    "name": "생생한 코랄 레드",
+    "hex": "#FF6B6B",
+    "usage": "주요 강조색, 의상, 소품"
+  },
+  "accent_2": {
+    "name": "소프트 핑크",
+    "hex": "#FFB6C1",
+    "usage": "피부톤, 의상, 꽃"
+  },
+  "accent_3": {
+    "name": "다크 네이비",
+    "hex": "#2C3E50",
+    "usage": "의상, 머리카락, 강조"
+  },
+  "accent_4": {
+    "name": "프레시 그린",
+    "hex": "#27AE60",
+    "usage": "소나무, 자연 요소"
+  },
+  "accent_5": {
+    "name": "브라이트 골드",
+    "hex": "#FFD700",
+    "usage": "복주머니 끈, 특별 강조"
+  },
+  "skin_tone": {
+    "name": "웜 피치(따뜻한 복숭아색)",
+    "hex": "#FFDAB9",
+    "usage": "캐릭터 피부"
+  }
+},
+
+"technical_settings": {
+  "aspect_ratio": "1:1 (정사각형 포맷)",
+  "resolution": "고디테일 벡터 스타일",
+  "style_consistency": "완전히 평면적인 일러스트레이션 유지, 외곽선 없음(NO outlines), 그라데이션 없음, 3D 효과 없음, 그림자 없음"
+}
+
+
