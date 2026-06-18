@@ -11,10 +11,14 @@
             "id": "34729ff12c5eed09",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "AI_비즈니스_자동화_전략.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI_비즈니스_자동화_전략"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI_비즈니스_자동화_전략.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "AI_비즈니스_자동화_전략 의 백링크"
             }
           },
           {
@@ -179,14 +184,14 @@
   },
   "active": "34729ff12c5eed09",
   "lastOpenFiles": [
-    "내폴더와 깃허브 옵시디언과의 연결.md",
-    "내폴더와 깃허브 옵시디언과의 연결.txt",
+    "README.md",
+    "hello.md",
     "음악에 관한 고찰.md",
+    "내폴더와 깃허브 옵시디언과의 연결.md",
+    "AI_비즈니스_자동화_전략.md",
+    "내폴더와 깃허브 옵시디언과의 연결.txt",
     "음악에 관한 고찰.txt",
     "2026 새해 인사카드.txt",
-    "AI_비즈니스_자동화_전략.md",
-    "wiki_master.py",
-    "hello.md",
-    "README.md"
+    "wiki_master.py"
   ]
 }
