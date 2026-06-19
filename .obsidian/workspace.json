@@ -11,14 +11,13 @@
             "id": "34729ff12c5eed09",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "AI_비즈니스_자동화_전략.md",
-                "mode": "source",
-                "source": false
+                "file": "무제 1.base",
+                "viewName": "표"
               },
-              "icon": "lucide-file",
-              "title": "AI_비즈니스_자동화_전략"
+              "icon": "lucide-table",
+              "title": "무제 1"
             }
           }
         ]
@@ -162,13 +161,23 @@
               "icon": "lucide-list",
               "title": "개요"
             }
+          },
+          {
+            "id": "ae0b0da01b2394f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +193,14 @@
   },
   "active": "34729ff12c5eed09",
   "lastOpenFiles": [
+    "무제.base",
+    "무제 1.base",
+    "2026-06-20.md",
+    "무제.canvas",
+    "내폴더와 깃허브 옵시디언과의 연결.md",
+    "음악에 관한 고찰.md",
     "README.md",
     "hello.md",
-    "음악에 관한 고찰.md",
-    "내폴더와 깃허브 옵시디언과의 연결.md",
     "AI_비즈니스_자동화_전략.md",
     "내폴더와 깃허브 옵시디언과의 연결.txt",
     "음악에 관한 고찰.txt",
