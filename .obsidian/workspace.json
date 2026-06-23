@@ -11,13 +11,14 @@
             "id": "34729ff12c5eed09",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "무제 1.base",
-                "viewName": "표"
+                "file": "내폴더와 깃허브 옵시디언과의 연결.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "무제 1"
+              "icon": "lucide-file",
+              "title": "내폴더와 깃허브 옵시디언과의 연결"
             }
           }
         ]
@@ -193,8 +194,8 @@
   },
   "active": "34729ff12c5eed09",
   "lastOpenFiles": [
-    "무제.base",
     "무제 1.base",
+    "무제.base",
     "2026-06-20.md",
     "무제.canvas",
     "내폴더와 깃허브 옵시디언과의 연결.md",
